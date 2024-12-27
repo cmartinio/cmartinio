@@ -31,7 +31,7 @@
 
 With over a decade of experience in IT, I am a seasoned Site Reliability Engineer and Cybersecurity Professional with a proven track record of designing, deploying, securing, and managing complex hybrid cloud infrastructures. I take pride in delivering innovative and reliable solutions that meet the unique needs of organizations, leveraging my deep expertise across major cloud platforms and modern DevOps tools.
 
-I am passionate about continuous learning, as evidenced by an extensive portfolio of industry-recognized certifications and my ability to stay ahead in the ever-evolving world of technology.
+I am passionate about continuous learning, as evidenced by an extensive portfolio of industry-recognized certifications and my ability to stay ahead in the ever-evolving world of technology; feel feel to checkout my personal website and blog to learn more.
 
 ---
 
