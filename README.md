@@ -26,14 +26,11 @@
 </div>
 
 ---
+### About Me
 
-## About Me
+With over a decade of experience in IT, I am a Site Reliability Engineer and Cybersecurity Professional specializing in Kubernetes, AI prompt engineering, Terraform, and Ansible. My work focuses on designing, deploying, and managing scalable and secure hybrid cloud infrastructures while leveraging cutting-edge AI tools like Ollama, OpenAI, and Claude to enhance efficiency.
 
-With over a decade of experience in IT, I am a seasoned Site Reliability Engineer and Cybersecurity Professional with a proven track record of designing, deploying, securing, and managing complex hybrid cloud infrastructures. I take pride in delivering innovative and reliable solutions that meet the unique needs of organizations, leveraging my deep expertise across major cloud platforms using modern DevOps tools.
-
-I am passionate about technology and continuous learning, as evidenced by an extensive portfolio of industry-recognized certifications and my ability to stay ahead in the ever-evolving tech world; feel to checkout my personal website cmartin.io and blog to learn more.
-
----
+Passionate about innovation and continuous learning, I stay ahead in the dynamic tech landscape. Explore my personal website [cmartin.io](https://cmartin.io) and blog to learn more.
 
 ## 🔧 My Everyday Tools & Workflow
 
