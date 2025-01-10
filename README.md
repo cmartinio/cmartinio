@@ -78,7 +78,7 @@ Passionate about innovation and continuous learning, I stay ahead in the dynamic
   Python, Bash, Go, TypeScript, and more for building automation and resilient systems.
   Nginx, Apache, Docker, Terraform, and Jenkins for deploying and maintaining modern infrastructures.
 - ### Containerization  
-- **Docker**: Still the reigning champion for containers. If Podman is better, why isn’t everyone using it?  
+- **Docker**: Still the reigning champion for containers. If Podman was better, why isn’t everyone using it?  
 
 ### AI and Productivity Tools
 
