@@ -63,24 +63,6 @@ Passionate about innovation and continuous learning, I stay ahead in the dynamic
 </div>
 
 
-### Operating Systems  
-- **Ubuntu**: My daily driver for development and operations.  
-- **Windows with WSL**: When specific workflows demand it.  
-
-### Editor  
-- **vim**: The ultimate productivity booster. My setup is fine-tuned—check out my [dotfiles](#) if you want a sneak peek.  
-
-### Containerization  
-- **Docker**: Still the reigning champion for containers. If Podman is better, why isn’t everyone using it?  
-
-### AI Tools  
-- **Local LLM (Ollama)**: Privacy-first AI for local tasks.  
-- **OpenAI API & Claude**: Go-to for cloud-based AI assistance.  
-
-### SRE Toolbox  
-- **Perl, Bash, Python, Go**: Versatile scripting and development languages that handle everything from automation to systems programming.  
-- **Sight**: Precision for infrastructure observability.  
-- **PowerShell**: Surprisingly powerful—even for a Linux-first engineer.  
 
 ---
 
@@ -90,13 +72,26 @@ Passionate about innovation and continuous learning, I stay ahead in the dynamic
   Mastery of AWS, Azure, and Google Cloud, enabling secure, scalable, and high-performance solutions.  
 
 - **Virtualization & Orchestration**:  
-  Kubernetes, VMware vSphere, and Red Hat OpenShift for managing containerized and virtual environments.  
+  Kubernetes, VMware vSphere, and Red Hat OpenShift, I also previously worked with OpenStack,  for managing containerized and virtual environments.  
 
 - **Programming & Frameworks**:  
   Python, Bash, Go, TypeScript, and more for building automation and resilient systems.
+  Nginx, Apache, Docker, Terraform, and Jenkins for deploying and maintaining modern infrastructures.
+- ### Containerization  
+- **Docker**: Still the reigning champion for containers. If Podman is better, why isn’t everyone using it?  
 
-- **Web & DevOps**:  
-  Nginx, Apache, Docker, Terraform, and Jenkins for deploying and maintaining modern infrastructures.  
+### AI and Productivity Tools
+
+- **Local LLM (Ollama)**: Privacy-first AI for local tasks.  
+- **OpenAI API & Claude**: Go-to for cloud-based AI assistance.  
+
+### SRE Toolbox  
+
+- **Perl, Bash, Python, Go**: Versatile scripting and development languages that handle everything from automation to systems programming.  
+- **Sight**: Precision for infrastructure observability.  
+- **PowerShell**: Surprisingly powerful—even for a Linux-first engineer.  
+
+
 
 ---
 
